@@ -1,0 +1,12 @@
+.BadgesListItem{
+    display: flex;
+    flex-direction: row;
+}
+
+.img__container{
+    margin-right: 20px;
+}
+
+.twitter{
+    width: 20px;
+}

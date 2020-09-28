@@ -1,0 +1,30 @@
+.notFound__container{
+    background: url('../../images/stars.svg'), #1B1B25;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notFound__details{
+    justify-content: center;
+}
+
+.notFound__details h1{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 60px;
+}
+
+.notFound__details p{
+    color: white;
+    font-size: 20px;
+}
+
+.notFound__details Link{
+    width: 30px;
+}
+
+.notFound__image img{
+    width: 580px;
+}
